@@ -25,13 +25,4 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhaviyadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhaviyadav&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ⭐ *"Code, Learn, Repeat — that’s my mantra!"*
