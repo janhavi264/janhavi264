@@ -4,7 +4,7 @@
 <p align="center">
   <b>B.Tech Student | AI & ML Enthusiast | Java & Android Developer</b>  
   <br>
-  ✨ Passionate about crafting intelligent, scalable, and impactful solutions 💻  
+  ✨ Turning ideas into intelligent, scalable, and impactful solutions 💻  
 </p>
 
 ---
@@ -67,15 +67,29 @@
 
 ---
 
-### 📊 GitHub Analytics  
+## 🔥 Contribution Wave — Java in Action  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=vision-friendly-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi264&theme=react-dark&area=true&hide_border=true&color=yellow&line=false&point=false" alt="Java Contribution Wave" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=vision-friendly-dark&langs_count=6&hide_border=true&custom_title=Most%20Used%20Language:%20Java&hide=python,html,css,javascript" height="140" />
+  💛 Each wave represents my **Java commits**, lighting up steadily across the year!  
+  <br>
+  🌟 Watch my contributions ripple like a flowing code stream.
+</p>
+
+---
+
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Language:%20Java&hide=python,html,css,javascript" height="140" />
 </p>
 
 ---
@@ -91,4 +105,3 @@
   <br><br>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Animation"/>
 </p>
-
