@@ -1,67 +1,100 @@
-# 👋 Hi, I'm Janhavi Yadav
+ <!-- 🌟 PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#6EE7B7;">Janhavi Yadav</span>!</h1>
 
-💫 A passionate **B.Tech student specializing in AI & ML**  
-🔭 Currently exploring **Java Development**, **Android (Kotlin)**, **Web Development**, and **Machine Learning**  
-🌱 Focused on building scalable projects using **Java**, **Python**, and modern web technologies  
-💡 Strong interest in solving real-world challenges through **technology and innovation**  
-⚡ Fun fact: I love blending **logic + creativity** to make impactful projects 🚀  
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)  
-📧 **Email:** yourname@email.com  
+<p align="center">
+  💫 <b>B.Tech Student | AI & ML Enthusiast | Java & Android Developer</b><br>
+  🚀 Turning ideas into reality through logic, creativity & innovation 💡
+</p>
 
 ---
 
-### 💻 Languages & Tools
-**Web Development:** HTML · CSS · JavaScript  
-**Backend & Programming:** Java · Python  
-**Mobile Development:** Kotlin (Android)  
-**Libraries:** pandas · numpy · matplotlib  
-**Tools & Platforms:** Git · GitHub · VS Code · Android Studio  
+### 🌸 About Me
+
+- 🎓 Passionate **B.Tech student specializing in Artificial Intelligence & Machine Learning**  
+- 💻 Exploring **Java Development**, **Android (Kotlin)**, **Web Development**, and **Machine Learning**  
+- 🌱 Focused on building **scalable and efficient projects** using modern technologies  
+- 💡 Love solving real-world problems through **AI + Code + Creativity**  
+- ⚡ *Fun fact:* I turn coffee ☕ into working code and cool ideas! 😄  
 
 ---
 
-### 🚀 Featured Projects
-- **🧠 AI-Based Personal Diary App** — A smart diary powered by AI features for journaling and analysis ✨  
-- **🏋️ BMI Calculator** — A Python + Tkinter project for fitness tracking and health recommendations  
-- **🛒 E-Commerce Website** — A responsive shopping website built with HTML, CSS, JS  
-- **🤖 Chatbot Application** — AI-powered chatbot to enhance human-computer interaction  
+### 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/janhavi-yadav-41a674280/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:janhaviyadav14062006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/janhavi264" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Janhavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)  
+### 🛠️ Tech Stack & Tools  
+
+#### 🌐 Web Development  
+`HTML` · `CSS` · `JavaScript`  
+
+#### ☕ Backend & Programming  
+`Java` (Primary) · `Python`  
+
+#### 📱 Mobile Development  
+`Kotlin (Android Studio)`  
+
+#### 📊 Data & Libraries  
+`pandas` · `numpy` · `matplotlib`  
+
+#### ⚙️ Tools & Platforms  
+`Git` · `GitHub` · `VS Code` · `Android Studio`  
 
 ---
 
-### 🧩 Python Activity Visualization
-You can visualize your local coding activity using **pandas**, **numpy**, and **matplotlib**:
+### 🚀 Featured Projects  
 
-```python
-# save as generate_stats.py
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+#### 🧠 AI-Based Personal Diary App  
+> A smart diary powered by **AI sentiment analysis** and **mood tracking** ✨  
 
-# simulate 30 days of commit activity
-days = pd.date_range(end=pd.Timestamp.today(), periods=30)
-commits = np.random.poisson(lam=3, size=30)
+#### 📏 Distance Calculator  
+> A **Java-based application** that computes distances between coordinates using the **Haversine Formula** 🌍  
 
-df = pd.DataFrame({'Date': days, 'Commits': commits})
-plt.figure(figsize=(8,3))
-plt.plot(df['Date'], df['Commits'], marker='o')
-plt.title('30-Day Commit Activity')
-plt.tight_layout()
-plt.savefig('commit_activity.png', dpi=150)
-print('Saved commit_activity.png')
-```
-
-Run locally to generate a small graph of your daily commit activity 📈  
+#### 🛒 E-Commerce Website  
+> A **responsive HTML-CSS-JS** shopping platform with cart & checkout functionalities 🛍️  
 
 ---
 
-✨ *“Code. Create. Innovate. Repeat.”* ✨
+### 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="Janhavi's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=tokyonight" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&custom_title=Most%20Used%20Languages&hide=html,css&card_width=400" height="120" alt="Top Languages" />
+</p>
+
+> 💬 *Note: Stats update dynamically based on your latest commits and repositories.*
+
+---
+
+### 🧩 Java Developer Insight
+
+You can visualize your local **commit activity** using Java code 📈  
+
+```java
+import java.util.Random;
+
+public class CommitVisualizer {
+    public static void main(String[] args) {
+        Random rand = new Random();
+        System.out.println("📊 Janhavi’s 30-Day Commit Activity:");
+        for (int i = 1; i <= 30; i++) {
+            int commits = rand.nextInt(6);
+            System.out.printf("Day %02d: %s%n", i, "💻".repeat(commits));
+        }
+    }
+}
