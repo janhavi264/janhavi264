@@ -1,21 +1,22 @@
- <!-- 💫 PROFILE HEADER -->
-<h1 align="center">🌟 Hey there, I'm <span style="color:#6EE7B7;">Janhavi Yadav</span>!</h1>
+<!-- 💖 PROFILE HEADER -->
+<h1 align="center">
+  🌸 Hey there, I'm <span style="color:#F472B6;">Janhavi Yadav</span> 👋
+</h1>
 
 <p align="center">
-  <b>B.Tech Student | AI & ML Enthusiast | Java & Android Developer</b>  
-  <br>
-  ✨ Turning ideas into intelligent, scalable, and impactful solutions 💻  
+  <b>B.Tech Student | AI & ML Enthusiast | Java & Android Developer</b><br>
+  💫 <i>Transforming ideas into intelligent, elegant, and scalable solutions!</i> 💻
 </p>
 
 ---
 
-### 🌸 About Me  
+### 🌷 About Me  
 
-💫 A passionate **B.Tech student specializing in Artificial Intelligence & Machine Learning**  
-☕ Dedicated to mastering **Java**, **Kotlin**, and **AI technologies**  
-🚀 Constantly exploring **Web Development**, **Android**, and **Machine Learning**  
-💡 Love combining **logic + creativity** to build projects that make a difference  
-⚡ *Fun fact:* My favorite debugging strategy is coffee & curiosity! ☕💻  
+💡 Passionate **B.Tech student specializing in AI & ML**  
+☕ Strong in **Java**, **Kotlin**, and building **smart Android apps**  
+🧠 Constantly exploring **Web Development**, **AI projects**, and **Machine Learning models**  
+🎨 Love blending **creativity with logic** to bring ideas to life  
+💬 *Fun fact:* I debug faster with a cup of coffee and lo-fi beats ☕🎶  
 
 ---
 
@@ -23,60 +24,58 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janhavi-yadav-41a674280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-💼_Connect-blueviolet?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:janhaviyadav14062006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-📧_Say_Hi!-ff69b4?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/janhavi264" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-janhavi264-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-🖤_janhavi264-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🪄 Languages & Tools  
 
-#### ☕ Core Development  
-`Java` 💛 (Primary)  
+#### ☕ Core  
+`Java` 💛 (Primary Language)  
 
-#### 🌐 Frontend & Web  
+#### 🌐 Web  
 `HTML` · `CSS` · `JavaScript`  
 
-#### 📱 Mobile Development  
+#### 📱 Mobile  
 `Kotlin (Android Studio)`  
 
-#### 🤖 Data & AI  
+#### 🤖 AI & Data  
 `Python` · `pandas` · `numpy` · `matplotlib`  
 
-#### ⚙️ Tools & Platforms  
-`Git` · `GitHub` · `VS Code` · `Android Studio`  
+#### ⚙️ Platforms & Tools  
+`Git` · `GitHub` · `VS Code` · `Android Studio`
 
 ---
 
-### 🚀 Featured Projects  
+### 💎 Featured Projects  
 
 #### 🧠 AI-Based Personal Diary App  
-> ✨ A smart diary powered by **AI sentiment analysis** and mood detection — turning your thoughts into insights.  
+> ✨ Smart diary with **AI sentiment analysis** & mood tracking — turning emotions into insights!  
 
-#### 📏 Distance Calculator  
-> 🌍 A **Java-based application** that calculates distance between two coordinates using the **Haversine Formula**.  
+#### 🌍 Distance Calculator  
+> 📏 Java app using the **Haversine Formula** to measure real-world distances between coordinates.  
 
 #### 🛒 E-Commerce Website  
-> 🛍️ A visually appealing **HTML-CSS-JS** project for seamless online shopping experiences.  
+> 🛍️ Elegant web project built with **HTML, CSS, JS**, focusing on clean UI and responsive design.  
 
 ---
 
-## 🔥 Contribution Wave — Java in Action  
+## 🌊 Java Contribution Flow  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi264&theme=react-dark&area=true&hide_border=true&color=yellow&line=false&point=false" alt="Java Contribution Wave" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi264&theme=dracula&area=true&hide_border=true&color=ffb6c1&line=ff9de2&point=ff80bf" alt="Java Contribution Graph" />
 </p>
 
 <p align="center">
-  💛 Each wave represents my **Java commits**, lighting up steadily across the year!  
-  <br>
-  🌟 Watch my contributions ripple like a flowing code stream.
+  💛 Each wave symbolizes my dedication to Java — <b>growing, coding, and glowing!</b>  
 </p>
 
 ---
@@ -84,24 +83,32 @@
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=rose_pine&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Language:%20Java&hide=python,html,css,javascript" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=rose_pine&hide_border=true&custom_title=💻%20Most%20Used%20Language:%20Java" height="140" />
 </p>
 
 ---
 
-### ✨ Fun Coding Quote  
+### 🌸 Cute Coding Vibes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="230" alt="Cute Coding Cat" />
+  <br><br>
+  <em>“Code with heart 💖, debug with patience ☕, and dream in Java 🌙”</em>
+</p>
+
+---
+
+### 💬 Favorite Quote  
 
 > *“Programming isn’t about typing; it’s about thinking.”* — Rich Hickey  
 
 ---
 
 <p align="center">
-  <em>“Code. Create. Innovate. Repeat.”</em> 🚀  
-  <br><br>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding Animation"/>
+  🌷 <em>“Create. Code. Inspire.”</em> ✨  
 </p>
