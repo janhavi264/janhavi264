@@ -112,3 +112,5 @@
 <p align="center">
   🌷 <em>“Create. Code. Inspire.”</em> ✨  
 </p>
+![Snake animation](https://github.com/janhavi264/janhavi264/blob/output/snake.svg)
+
