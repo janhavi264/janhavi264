@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>B.Tech Student | AI & ML Enthusiast | Java & Android Developer</b><br>
+  <b>B.Tech Student | AI & ML Enthusiast | Java Developer</b><br>
   💫 <i>Transforming ideas into intelligent, elegant, and scalable solutions!</i> 💻
 </p>
 
