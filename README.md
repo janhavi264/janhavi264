@@ -1,116 +1,80 @@
-<!-- 💖 PROFILE HEADER -->
-<h1 align="center">
-  🌸 Hey there, I'm <span style="color:#F472B6;">Janhavi Yadav</span> 👋
-</h1>
+<h1 align="center">Janhavi Yadav</h1>
 
 <p align="center">
-  <b>B.Tech Student | AI & ML Enthusiast | Java Developer</b><br>
-  💫 <i>Transforming ideas into intelligent, elegant, and scalable solutions!</i> 💻
+B.Tech Student | Artificial Intelligence & Machine Learning | Java Developer
 </p>
 
 ---
 
-### 🌷 About Me  
+## About
 
-💡 Passionate **B.Tech student specializing in AI & ML**  
-☕ Strong in **Java**, **Kotlin**, and building **smart Android apps**  
-🧠 Constantly exploring **Web Development**, **AI projects**, and **Machine Learning models**  
-🎨 Love blending **creativity with logic** to bring ideas to life  
-💬 *Fun fact:* I debug faster with a cup of coffee and lo-fi beats ☕🎶  
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning with strong foundations in Data Structures, Algorithms, and Object-Oriented Programming.  
+
+I focus on building scalable, logical, and data-driven solutions with clean architecture and maintainable code.
 
 ---
 
-### 🌐 Connect with Me  
+## Technical Skills
+
+**Programming Languages**  
+Java (Primary) · Python · Kotlin  
+
+**Core Concepts**  
+Data Structures & Algorithms · OOP · DBMS · Basic Operating Systems · Problem Solving  
+
+**Machine Learning & Data**  
+pandas · numpy · matplotlib · scikit-learn · Data Preprocessing · Model Evaluation  
+
+**Web & Application Development**  
+HTML · CSS · JavaScript · Android Development  
+
+**Tools & Platforms**  
+Git · GitHub · VS Code · Android Studio  
+
+---
+
+## Selected Projects
+
+### AI-Based Personal Diary Application
+- Designed sentiment analysis pipeline for emotion detection  
+- Implemented text preprocessing and feature extraction  
+- Integrated analytics dashboard for mood tracking  
+- Focused on modular architecture and clean code practices  
+
+### Time Series Forecasting (Concept Project)
+- Explored forecasting approaches (statistical vs ML-based)  
+- Compared model performance using evaluation metrics  
+- Applied data cleaning and trend analysis techniques  
+
+### Distance Calculator (Java)
+- Implemented Haversine formula  
+- Emphasized algorithmic accuracy and efficient computation  
+- Structured using clean OOP principles  
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/janhavi-yadav-41a674280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-💼_Connect-blueviolet?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:janhaviyadav14062006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧_Say_Hi!-ff69b4?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/janhavi264" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-🖤_janhavi264-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi264&bg_color=ffffff&color=000000&line=000000&point=444444&area=false&hide_border=true" />
 </p>
 
 ---
 
-### 🪄 Languages & Tools  
-
-#### ☕ Core  
-`Java` 💛 (Primary Language)  
-
-#### 🌐 Web  
-`HTML` · `CSS` · `JavaScript`  
-
-#### 📱 Mobile  
-`Kotlin (Android Studio)`  
-
-#### 🤖 AI & Data  
-`Python` · `pandas` · `numpy` · `matplotlib`  
-
-#### ⚙️ Platforms & Tools  
-`Git` · `GitHub` · `VS Code` · `Android Studio`
-
----
-
-### 💎 Featured Projects  
-
-#### 🧠 AI-Based Personal Diary App  
-> ✨ Smart diary with **AI sentiment analysis** & mood tracking — turning emotions into insights!  
-
-#### 🌍 Distance Calculator  
-> 📏 Java app using the **Haversine Formula** to measure real-world distances between coordinates.  
-
-#### 🛒 E-Commerce Website  
-> 🛍️ Elegant web project built with **HTML, CSS, JS**, focusing on clean UI and responsive design.  
-
----
-
-## 🌊 Java Contribution Flow  
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janhavi264&theme=dracula&area=true&hide_border=true&color=ffb6c1&line=ff9de2&point=ff80bf" alt="Java Contribution Graph" />
-</p>
-
-<p align="center">
-  💛 Each wave symbolizes my dedication to Java — <b>growing, coding, and glowing!</b>  
+  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics  
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janhavi264&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janhavi264&theme=rose_pine&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janhavi264&layout=compact&theme=rose_pine&hide_border=true&custom_title=💻%20Most%20Used%20Language:%20Java" height="140" />
-</p>
+LinkedIn: https://www.linkedin.com/in/janhavi-yadav-41a674280/  
+Email: janhaviyadav14062006@gmail.com  
 
 ---
 
-### 🌸 Cute Coding Vibes  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="230" alt="Cute Coding Cat" />
-  <br><br>
-  <em>“Code with heart 💖, debug with patience ☕, and dream in Java 🌙”</em>
-</p>
-
----
-
-### 💬 Favorite Quote  
-
-> *“Programming isn’t about typing; it’s about thinking.”* — Rich Hickey  
-
----
-
-<p align="center">
-  🌷 <em>“Create. Code. Inspire.”</em> ✨  
-</p>
-![Snake animation](https://github.com/janhavi264/janhavi264/blob/output/snake.svg)
-
+> Focused on writing clean code, solving real problems, and continuously improving technical depth.
